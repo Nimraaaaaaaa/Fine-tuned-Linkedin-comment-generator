@@ -1,0 +1,15 @@
+streamlit
+streamlit-chat
+python-dotenv
+langchain
+openai
+pyrebase4
+firebase-admin
+requests==2.28.2
+urllib3==1.26.15
+streamlit-option-menu
+chromadb
+scikit-learn
+pydantic
+fastapi
+uvicorn
